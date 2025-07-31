@@ -1,11 +1,11 @@
 #+title: Progress
 
-* Introductory Problems
+* TODO Introductory Problems
 ** DONE Weird Algorithm
 ** DONE Missing Number
 ** DONE Repetitions
-** TODO Increasing Array
-** TODO Permutations
+** DONE Increasing Array
+** DONE Permutations
 ** TODO Number Spiral
 ** TODO Two Knights
 ** TODO Two Sets
