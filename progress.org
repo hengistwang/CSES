@@ -1,0 +1,446 @@
+#+title: Progress
+
+* Introductory Problems
+** DONE Weird Algorithm
+** DONE Missing Number
+** DONE Repetitions
+** TODO Increasing Array
+** TODO Permutations
+** TODO Number Spiral
+** TODO Two Knights
+** TODO Two Sets
+** TODO Bit Strings
+** TODO Trailing Zeros
+** TODO Coin Piles
+** TODO Palindrome Reorder
+** TODO Gray Code
+** TODO Tower of Hanoi
+** TODO Creating Strings
+** TODO Apple Division
+** TODO Chessboard and Queens
+** TODO Raab Game I
+** TODO Mex Grid Construction
+** TODO Knight Moves Grid
+** TODO Grid Coloring I
+** TODO Digit Queries
+** TODO String Reorder
+** TODO Grid Path Description
+* Sorting and Searching
+** TODO Distinct Numbers
+** TODO Apartments
+** TODO Ferris Wheel
+** TODO Concert Tickets
+** TODO Restaurant Customers
+** TODO Movie Festival
+** TODO Sum of Two Values
+** TODO Maximum Subarray Sum
+** TODO Stick Lengths
+** TODO Missing Coin Sum
+** TODO Collecting Numbers
+** TODO Collecting Numbers II
+** TODO Playlist
+** TODO Towers
+** TODO Traffic Lights
+** TODO Distinct Values Subarrays
+** TODO Distinct Values Subsequences
+** TODO Josephus Problem I
+** TODO Josephus Problem II
+** TODO Nested Ranges Check
+** TODO Nested Ranges Count
+** TODO Room Allocation
+** TODO Factory Machines
+** TODO Tasks and Deadlines
+** TODO Reading Books
+** TODO Sum of Three Values
+** TODO Sum of Four Values
+** TODO Nearest Smaller Values
+** TODO Subarray Sums I
+** TODO Subarray Sums II
+** TODO Subarray Divisibility
+** TODO Distinct Values Subarrays II
+** TODO Array Division
+** TODO Movie Festival II
+** TODO Maximum Subarray Sum II
+* Dynamic Programming
+** TODO Minimizing Coins
+** TODO Coin Combinations I
+** TODO Coin Combinations II
+** TODO Removing Digits
+** TODO Grid Paths I
+** TODO Book Shop
+** TODO Array Description
+** TODO Counting Towers
+** TODO Edit Distance
+** TODO Longest Common Subsequence
+** TODO Rectangle Cutting
+** TODO Minimal Grid Path
+** TODO Money Sums
+** TODO Removal Game
+** TODO Two Sets II
+** TODO Mountain Range
+** TODO Increasing Subsequence
+** TODO Projects
+** TODO Elevator Rides
+** TODO Counting Tilings
+** TODO Counting Numbers
+** TODO Increasing Subsequence II
+
+* Graph Algorithms
+** TODO Counting Rooms
+** TODO Labyrinth
+** TODO Building Roads
+** TODO Message Route
+** TODO Building Teams
+** TODO Round Trip
+** TODO Monsters
+** TODO Shortest Routes I
+** TODO Shortest Routes II
+** TODO High Score
+** TODO Flight Discount
+** TODO Cycle Finding
+** TODO Flight Routes
+** TODO Round Trip II
+** TODO Course Schedule
+** TODO Longest Flight Route
+** TODO Game Routes
+** TODO Investigation
+** TODO Planets Queries I
+** TODO Planets Queries II
+** TODO Planets Cycles
+** TODO Road Reparation
+** TODO Road Construction
+** TODO Flight Routes Check
+** TODO Planets and Kingdoms
+** TODO Giant Pizza
+** TODO Coin Collector
+** TODO Mail Delivery
+** TODO De Bruijn Sequence
+** TODO Teleporters Path
+** TODO Hamiltonian Flights
+** TODO Knight's Tour
+** TODO Download Speed
+** TODO Police Chase
+** TODO School Dance
+** TODO Distinct Routes
+* Range Queries
+** TODO Static Range Sum Queries
+** TODO Static Range Minimum Queries
+** TODO Dynamic Range Sum Queries
+** TODO Dynamic Range Minimum Queries
+** TODO Range Xor Queries
+** TODO Range Update Queries
+** TODO Forest Queries
+** TODO Hotel Queries
+** TODO List Removals
+** TODO Salary Queries
+** TODO Prefix Sum Queries
+** TODO Pizzeria Queries
+** TODO Visible Buildings Queries
+** TODO Range Interval Queries
+** TODO Subarray Sum Queries
+** TODO Subarray Sum Queries II
+** TODO Distinct Values Queries
+** TODO Distinct Values Queries II
+** TODO Increasing Array Queries
+** TODO Movie Festival Queries
+** TODO Forest Queries II
+** TODO Range Updates and Sums
+** TODO Polynomial Queries
+** TODO Range Queries and Copies
+** TODO Missing Coin Sum Queries
+
+* Tree Algorithms
+
+** TODO Subordinates
+** TODO Tree Matching
+** TODO Tree Diameter
+** TODO Tree Distances I
+** TODO Tree Distances II
+** TODO Company Queries I
+** TODO Company Queries II
+** TODO Distance Queries
+** TODO Counting Paths
+** TODO Subtree Queries
+** TODO Path Queries
+** TODO Path Queries II
+** TODO Distinct Colors
+** TODO Finding a Centroid
+** TODO Fixed-Length Paths I
+** TODO Fixed-Length Paths II
+
+* Mathematics
+
+** TODO Josephus Queries
+** TODO Exponentiation
+** TODO Exponentiation II
+** TODO Counting Divisors
+** TODO Common Divisors
+** TODO Sum of Divisors
+** TODO Divisor Analysis
+** TODO Prime Multiples
+** TODO Counting Coprime Pairs
+** TODO Next Prime
+** TODO Binomial Coefficients
+** TODO Creating Strings II
+** TODO Distributing Apples
+** TODO Christmas Party
+** TODO Permutation Order
+** TODO Permutation Rounds
+** TODO Bracket Sequences I
+** TODO Bracket Sequences II
+** TODO Counting Necklaces
+** TODO Counting Grids
+** TODO Fibonacci Numbers
+** TODO Throwing Dice
+** TODO Graph Paths I
+** TODO Graph Paths II
+** TODO System of Linear Equations
+** TODO Sum of Four Squares
+** TODO Triangle Number Sums
+** TODO Dice Probability
+** TODO Moving Robots
+** TODO Candy Lottery
+** TODO Inversion Probability
+** TODO Stick Game
+** TODO Nim Game I
+** TODO Nim Game II
+** TODO Stair Game
+** TODO Grundy's Game
+** TODO Another Game
+
+* String Algorithms
+
+** TODO Word Combinations
+** TODO String Matching
+** TODO Finding Borders
+** TODO Finding Periods
+** TODO Minimal Rotation
+** TODO Longest Palindrome
+** TODO All Palindromes
+** TODO Required Substring
+** TODO Palindrome Queries
+** TODO Finding Patterns
+** TODO Counting Patterns
+** TODO Pattern Positions
+** TODO Distinct Substrings
+** TODO Distinct Subsequences
+** TODO Repeating Substring
+** TODO String Functions
+** TODO Inverse Suffix Array
+** TODO String Transform
+** TODO Substring Order I
+** TODO Substring Order II
+** TODO Substring Distribution
+
+* Geometry
+
+** TODO Point Location Test
+** TODO Line Segment Intersection
+** TODO Polygon Area
+** TODO Point in Polygon
+** TODO Polygon Lattice Points
+** TODO Minimum Euclidean Distance
+** TODO Convex Hull
+** TODO Maximum Manhattan Distances
+** TODO All Manhattan Distances
+** TODO Intersection Points
+** TODO Line Segments Trace I
+** TODO Line Segments Trace II
+** TODO Lines and Queries I
+** TODO Lines and Queries II
+** TODO Area of Rectangles
+** TODO Robot Path
+
+* Advanced Techniques
+
+** TODO Meet in the Middle
+** TODO Hamming Distance
+** TODO Corner Subgrid Check
+** TODO Corner Subgrid Count
+** TODO Reachable Nodes
+** TODO Reachability Queries
+** TODO Cut and Paste
+** TODO Substring Reversals
+** TODO Reversals and Sums
+** TODO Necessary Roads
+** TODO Necessary Cities
+** TODO Eulerian Subgraphs
+** TODO Monster Game I
+** TODO Monster Game II
+** TODO Subarray Squares
+** TODO Houses and Schools
+** TODO Knuth Division
+** TODO Apples and Bananas
+** TODO One Bit Positions
+** TODO Signal Processing
+** TODO New Roads Queries
+** TODO Dynamic Connectivity
+** TODO Parcel Delivery
+** TODO Task Assignment
+** TODO Distinct Routes II
+
+* Sliding Window Problems
+
+** TODO Sliding Window Sum
+** TODO Sliding Window Minimum
+** TODO Sliding Window Xor
+** TODO Sliding Window Or
+** TODO Sliding Window Distinct Values
+** TODO Sliding Window Mode
+** TODO Sliding Window Mex
+** TODO Sliding Window Median
+** TODO Sliding Window Cost
+** TODO Sliding Window Inversions
+** TODO Sliding Window Advertisement
+
+* Interactive Problems
+
+** TODO Hidden Integer
+** TODO Hidden Permutation
+** TODO K-th Highest Score
+** TODO Permuted Binary Strings
+** TODO Colored Chairs
+** TODO Inversion Sorting
+
+* Bitwise Operations
+
+** TODO Counting Bits
+** TODO Maximum Xor Subarray
+** TODO Maximum Xor Subset
+** TODO Number of Subset Xors
+** TODO K Subset Xors
+** TODO All Subarray Xors
+** TODO Xor Pyramid Peak
+** TODO Xor Pyramid Diagonal
+** TODO Xor Pyramid Row
+** TODO SOS Bit Problem
+** TODO And Subset Count
+
+* Construction Problems
+
+** TODO Inverse Inversions
+** TODO Monotone Subsequences
+** TODO Third Permutation
+** TODO Permutation Prime Sums
+** TODO Chess Tournament
+** TODO Distinct Sums Grid
+** TODO Filling Trominos
+** TODO Grid Path Construction
+
+* Advanced Graph Problems
+
+** TODO Nearest Shops
+** TODO Prüfer Code
+** TODO Tree Traversals
+** TODO Course Schedule II
+** TODO Acyclic Graph Edges
+** TODO Strongly Connected Edges
+** TODO Even Outdegree Edges
+** TODO Graph Girth
+** TODO Fixed Length Walk Queries
+** TODO Transfer Speeds Sum
+** TODO MST Edge Check
+** TODO MST Edge Set Check
+** TODO MST Edge Cost
+** TODO Network Breakdown
+** TODO Tree Coin Collecting I
+** TODO Tree Coin Collecting II
+** TODO Tree Isomorphism I
+** TODO Tree Isomorphism II
+** TODO Flight Route Requests
+** TODO Critical Cities
+** TODO Visiting Cities
+** TODO Graph Coloring
+** TODO Bus Companies
+** TODO Split into Two Paths
+** TODO Network Renovation
+** TODO Forbidden Cities
+** TODO Creating Offices
+** TODO New Flight Routes
+
+* Counting Problems
+
+** TODO Filled Subgrid Count I
+** TODO Filled Subgrid Count II
+** TODO All Letter Subgrid Count I
+** TODO All Letter Subgrid Count II
+** TODO Border Subgrid Count I
+** TODO Border Subgrid Count II
+** TODO Raab Game II
+** TODO Empty String
+** TODO Permutation Inversions
+** TODO Counting Bishops
+** TODO Counting Sequences
+** TODO Grid Paths II
+** TODO Counting Permutations
+** TODO Grid Completion
+** TODO Counting Reorders
+** TODO Tournament Graph Distribution
+** TODO Collecting Numbers Distribution
+** TODO Functional Graph Distribution
+
+* Additional Problems I
+
+** TODO Shortest Subsequence
+** TODO Distinct Values Sum
+** TODO Distinct Values Splits
+** TODO Swap Game
+** TODO Beautiful Permutation II
+** TODO Multiplication Table
+** TODO Bubble Sort Rounds I
+** TODO Bubble Sort Rounds II
+** TODO Nearest Campsites I
+** TODO Nearest Campsites II
+** TODO Advertisement
+** TODO Special Substrings
+** TODO Counting LCM Arrays
+** TODO Square Subsets
+** TODO Subarray Sum Constraints
+** TODO Water Containers Moves
+** TODO Water Containers Queries
+** TODO Stack Weights
+** TODO Maximum Average Subarrays
+** TODO Subsets with Fixed Average
+** TODO Two Array Average
+** TODO Pyramid Array
+** TODO Permutation Subsequence
+** TODO Bit Inversions
+** TODO Writing Numbers
+** TODO Letter Pair Move Game
+** TODO Maximum Building I
+** TODO Sorting Methods
+** TODO Cyclic Array
+** TODO List of Sums
+
+* Additional Problems II
+
+** TODO Bouncing Ball Steps
+** TODO Bouncing Ball Cycle
+** TODO Knight Moves Queries
+** TODO K Subset Sums I
+** TODO K Subset Sums II
+** TODO Increasing Array II
+** TODO Food Division
+** TODO Swap Round Sorting
+** TODO Binary Subsequences
+** TODO School Excursion
+** TODO Coin Grid
+** TODO Grid Coloring II
+** TODO Programmers and Artists
+** TODO Removing Digits II
+** TODO Coin Arrangement
+** TODO Replace with Difference
+** TODO Grid Puzzle I
+** TODO Grid Puzzle II
+** TODO Bit Substrings
+** TODO Reversal Sorting
+** TODO Book Shop II
+** TODO GCD Subsets
+** TODO Minimum Cost Pairs
+** TODO Same Sum Subsets
+** TODO Mex Grid Queries
+** TODO Maximum Building II
+** TODO Stick Divisions
+** TODO Stick Difference
+** TODO Coding Company
+** TODO Two Stacks Sorting
