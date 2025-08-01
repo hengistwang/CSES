@@ -14,8 +14,8 @@
 ** DONE Coin Piles
 ** DONE Palindrome Reorder
 ** DONE Gray Code
-** TODO Tower of Hanoi
-** TODO Creating Strings
+** DONE Tower of Hanoi
+** DONE Creating Strings
 ** TODO Apple Division
 ** TODO Chessboard and Queens
 ** TODO Raab Game I
