@@ -20,7 +20,7 @@
 ** DONE Chessboard and Queens
 ** DONE Raab Game I
 ** DONE Mex Grid Construction
-** TODO Knight Moves Grid
+** DONE Knight Moves Grid
 ** TODO Grid Coloring I
 ** TODO Digit Queries
 ** TODO String Reorder
