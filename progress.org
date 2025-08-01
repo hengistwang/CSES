@@ -21,7 +21,7 @@
 ** DONE Raab Game I
 ** DONE Mex Grid Construction
 ** DONE Knight Moves Grid
-** TODO Grid Coloring I
+** DONE Grid Coloring I
 ** TODO Digit Queries
 ** TODO String Reorder
 ** TODO Grid Path Description
