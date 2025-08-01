@@ -16,8 +16,8 @@
 ** DONE Gray Code
 ** DONE Tower of Hanoi
 ** DONE Creating Strings
-** TODO Apple Division
-** TODO Chessboard and Queens
+** DONE Apple Division
+** DONE Chessboard and Queens
 ** TODO Raab Game I
 ** TODO Mex Grid Construction
 ** TODO Knight Moves Grid
