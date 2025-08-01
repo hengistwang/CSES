@@ -6,9 +6,9 @@
 ** DONE Repetitions
 ** DONE Increasing Array
 ** DONE Permutations
-** TODO Number Spiral
-** TODO Two Knights
-** TODO Two Sets
+** DONE Number Spiral
+** DONE Two Knights
+** DONE Two Sets
 ** TODO Bit Strings
 ** TODO Trailing Zeros
 ** TODO Coin Piles

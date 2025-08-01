@@ -1,14 +1,28 @@
-use std::{cmp::max, fmt::Debug, io, str::FromStr, usize};
+use std::{fmt::Debug, io, str::FromStr};
 
 fn main() {
-    let _: usize = read_num();
+    let n: usize = read_num();
+    for _ in 0..n {
+        fun();
+    }
+}
+
+fn fun() {
     let xs: Vec<usize> = read_xs();
-    let mut left_biggest = 0;
-    let mut res = 0;
-    for i in xs {
-        left_biggest = max(left_biggest, i);
-        if i < left_biggest {
-            res += left_biggest - i;
+    let x = xs[0];
+    let y = xs[1];
+    let res;
+    if x > y {
+        if x % 2 == 0 {
+            res = x * x - y + 1;
+        } else {
+            res = (x - 1) * (x - 1) + 1 + y - 1;
+        }
+    } else {
+        if y % 2 == 0 {
+            res = (y - 1) * (y - 1) + 1 + x - 1;
+        } else {
+            res = y * y - x + 1;
         }
     }
     println!("{}", res);
