@@ -10,10 +10,10 @@
 ** DONE Two Knights
 ** DONE Two Sets
 ** DONE Bit Strings
-** TODO Trailing Zeros
-** TODO Coin Piles
-** TODO Palindrome Reorder
-** TODO Gray Code
+** DONE Trailing Zeros
+** DONE Coin Piles
+** DONE Palindrome Reorder
+** DONE Gray Code
 ** TODO Tower of Hanoi
 ** TODO Creating Strings
 ** TODO Apple Division
