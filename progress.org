@@ -18,8 +18,8 @@
 ** DONE Creating Strings
 ** DONE Apple Division
 ** DONE Chessboard and Queens
-** TODO Raab Game I
-** TODO Mex Grid Construction
+** DONE Raab Game I
+** DONE Mex Grid Construction
 ** TODO Knight Moves Grid
 ** TODO Grid Coloring I
 ** TODO Digit Queries
