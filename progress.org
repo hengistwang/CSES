@@ -22,7 +22,7 @@
 ** DONE Mex Grid Construction
 ** DONE Knight Moves Grid
 ** DONE Grid Coloring I
-** TODO Digit Queries
+** DONE Digit Queries
 ** TODO String Reorder
 ** TODO Grid Path Description
 * Sorting and Searching
