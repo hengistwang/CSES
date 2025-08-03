@@ -26,17 +26,17 @@
 ** TODO String Reorder
 ** TODO Grid Path Description
 * Sorting and Searching
-** TODO Distinct Numbers
-** TODO Apartments
-** TODO Ferris Wheel
-** TODO Concert Tickets
-** TODO Restaurant Customers
+** DONE Distinct Numbers
+** DONE Apartments
+** DONE Ferris Wheel
+** DONE Concert Tickets
+** DONE Restaurant Customers
 ** TODO Movie Festival
-** TODO Sum of Two Values
-** TODO Maximum Subarray Sum
-** TODO Stick Lengths
-** TODO Missing Coin Sum
-** TODO Collecting Numbers
+** DONE Sum of Two Values
+** DONE Maximum Subarray Sum
+** DONE Stick Lengths
+** DONE Missing Coin Sum
+** DONE Collecting Numbers
 ** TODO Collecting Numbers II
 ** TODO Playlist
 ** TODO Towers
