@@ -66,7 +66,7 @@
 ** DONE Minimizing Coins
 ** DONE Coin Combinations I
 ** DONE Coin Combinations II
-** TODO Removing Digits
+** DONE Removing Digits
 ** TODO Grid Paths I
 ** TODO Book Shop
 ** TODO Array Description
