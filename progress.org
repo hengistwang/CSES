@@ -67,7 +67,7 @@
 ** DONE Coin Combinations I
 ** DONE Coin Combinations II
 ** DONE Removing Digits
-** TODO Grid Paths I
+** DONE Grid Paths I
 ** TODO Book Shop
 ** TODO Array Description
 ** TODO Counting Towers
