@@ -1,6 +1,6 @@
 #+title: Progress
 
-* TODO Introductory Problems
+* DONE Introductory Problems
 ** DONE Weird Algorithm
 ** DONE Missing Number
 ** DONE Repetitions
@@ -24,7 +24,7 @@
 ** DONE Grid Coloring I
 ** DONE Digit Queries
 ** DONE String Reorder
-** TODO Grid Path Description
+** DONE Grid Path Description
 * Sorting and Searching
 ** DONE Distinct Numbers
 ** DONE Apartments
