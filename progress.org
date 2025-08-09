@@ -62,8 +62,8 @@
 ** TODO Movie Festival II
 ** TODO Maximum Subarray Sum II
 * Dynamic Programming
-** TODO Dice Combinations
-** TODO Minimizing Coins
+** DONE Dice Combinations
+** DONE Minimizing Coins
 ** TODO Coin Combinations I
 ** TODO Coin Combinations II
 ** TODO Removing Digits
