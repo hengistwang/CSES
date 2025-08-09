@@ -64,8 +64,8 @@
 * Dynamic Programming
 ** DONE Dice Combinations
 ** DONE Minimizing Coins
-** TODO Coin Combinations I
-** TODO Coin Combinations II
+** DONE Coin Combinations I
+** DONE Coin Combinations II
 ** TODO Removing Digits
 ** TODO Grid Paths I
 ** TODO Book Shop
