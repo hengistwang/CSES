@@ -31,7 +31,7 @@
 ** DONE Ferris Wheel
 ** DONE Concert Tickets
 ** DONE Restaurant Customers
-** TODO Movie Festival
+** DONE Movie Festival
 ** DONE Sum of Two Values
 ** DONE Maximum Subarray Sum
 ** DONE Stick Lengths
