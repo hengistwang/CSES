@@ -38,8 +38,8 @@
 ** DONE Missing Coin Sum
 ** DONE Collecting Numbers
 ** TODO Collecting Numbers II
-** TODO Playlist
-** TODO Towers
+** DONE Playlist
+** DONE Towers
 ** TODO Traffic Lights
 ** TODO Distinct Values Subarrays
 ** TODO Distinct Values Subsequences
