@@ -14,7 +14,7 @@ fn main() {
             }
         }
     }
-    println!("{}",dp[x]);
+    println!("{}", dp[x]);
 }
 
 fn read_nums<T>() -> Vec<T>
