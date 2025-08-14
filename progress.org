@@ -40,10 +40,10 @@
 ** TODO Collecting Numbers II
 ** DONE Playlist
 ** DONE Towers
-** TODO Traffic Lights
+** DONE Traffic Lights
 ** TODO Distinct Values Subarrays
 ** TODO Distinct Values Subsequences
-** TODO Josephus Problem I
+** DONE Josephus Problem I
 ** TODO Josephus Problem II
 ** TODO Nested Ranges Check
 ** TODO Nested Ranges Count
@@ -68,10 +68,10 @@
 ** DONE Coin Combinations II
 ** DONE Removing Digits
 ** DONE Grid Paths I
-** TODO Book Shop
+** DONE Book Shop
 ** TODO Array Description
 ** TODO Counting Towers
-** TODO Edit Distance
+** DONE Edit Distance
 ** TODO Longest Common Subsequence
 ** TODO Rectangle Cutting
 ** TODO Minimal Grid Path
@@ -87,7 +87,7 @@
 ** TODO Increasing Subsequence II
 
 * Graph Algorithms
-** TODO Counting Rooms
+** DONE Counting Rooms
 ** TODO Labyrinth
 ** TODO Building Roads
 ** TODO Message Route
