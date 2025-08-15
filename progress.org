@@ -37,7 +37,7 @@
 ** DONE Stick Lengths
 ** DONE Missing Coin Sum
 ** DONE Collecting Numbers
-** TODO Collecting Numbers II
+** DONE Collecting Numbers II
 ** DONE Playlist
 ** DONE Towers
 ** DONE Traffic Lights
