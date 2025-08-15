@@ -25,7 +25,7 @@
 ** DONE Digit Queries
 ** DONE String Reorder
 ** DONE Grid Path Description
-* Sorting and Searching
+* TODO Sorting and Searching
 ** DONE Distinct Numbers
 ** DONE Apartments
 ** DONE Ferris Wheel
