@@ -47,8 +47,8 @@
 ** TODO Josephus Problem II
 ** TODO Nested Ranges Check
 ** TODO Nested Ranges Count
-** TODO Room Allocation
-** TODO Factory Machines
+** DONE Room Allocation
+** DONE Factory Machines
 ** TODO Tasks and Deadlines
 ** TODO Reading Books
 ** TODO Sum of Three Values
