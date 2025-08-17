@@ -41,7 +41,7 @@
 ** DONE Playlist
 ** DONE Towers
 ** DONE Traffic Lights
-** TODO Distinct Values Subarrays
+** DONE Distinct Values Subarrays
 ** TODO Distinct Values Subsequences
 ** DONE Josephus Problem I
 ** TODO Josephus Problem II
