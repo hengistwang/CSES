@@ -49,8 +49,8 @@
 ** TODO Nested Ranges Count
 ** DONE Room Allocation
 ** DONE Factory Machines
-** TODO Tasks and Deadlines
-** TODO Reading Books
+** DONE Tasks and Deadlines
+** DONE Reading Books
 ** TODO Sum of Three Values
 ** TODO Sum of Four Values
 ** TODO Nearest Smaller Values
@@ -85,7 +85,6 @@
 ** TODO Counting Tilings
 ** TODO Counting Numbers
 ** TODO Increasing Subsequence II
-
 * Graph Algorithms
 ** DONE Counting Rooms
 ** TODO Labyrinth
