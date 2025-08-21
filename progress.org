@@ -53,8 +53,8 @@
 ** DONE Reading Books
 ** TODO Sum of Three Values
 ** TODO Sum of Four Values
-** TODO Nearest Smaller Values
-** TODO Subarray Sums I
+** DONE Nearest Smaller Values
+** DONE Subarray Sums I
 ** TODO Subarray Sums II
 ** TODO Subarray Divisibility
 ** TODO Distinct Values Subarrays II
